@@ -1,0 +1,11 @@
+.info-container {
+    max-width: 1000px;
+}
+
+.info-image-container {
+    display: flex;
+}
+
+.add-border {
+    border: 2px red solid;
+}

@@ -1,0 +1,16 @@
+.scroll-formatting {
+    position: fixed;
+    top: 100px;
+    right: 20px;
+    height: 100px;
+    width: 40px;
+}
+
+.circle {
+    border:3px solid red;    
+    width:20px;
+    height:20px;
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+}

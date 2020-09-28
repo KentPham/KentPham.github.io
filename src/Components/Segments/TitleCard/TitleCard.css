@@ -1,0 +1,13 @@
+.ticar-background-container {
+    background-image: url(../../../Assets/Title-Card.jpg);
+    background-size: 100vw;
+    min-width: 100vw;
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+}
+
+.add-border {
+    border: 2px red solid;
+}
